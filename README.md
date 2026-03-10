@@ -70,9 +70,9 @@ Developer Productivity Tools
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-mosshead-marimos-projects.vercel.app/api?username=Mosshead-marimo&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats-mosshead-marimos-projects.vercel.app/api?username=Mosshead-marimo"/>
 
-<img height="170" src="https://github-readme-stats-mosshead-marimos-projects.vercel.app/api/top-langs/?username=Mosshead-marimo&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-mosshead-marimos-projects.vercel.app/api/top-langs/?username=Mosshead-marimo"/>
 
 </p>
 Development Streak
