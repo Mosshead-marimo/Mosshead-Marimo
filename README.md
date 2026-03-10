@@ -66,15 +66,6 @@ Developer Productivity Tools
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,git,mongodb,mysql,aws"/> </p>
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-mosshead-marimos-projects.vercel.app/api?username=Mosshead-marimo"/>
-
-<img height="170" src="https://github-readme-stats-mosshead-marimos-projects.vercel.app/api/top-langs/?username=Mosshead-marimo"/>
-
-</p>
 Development Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Mosshead-marimo&theme=tokyonight&hide_border=true"/> </p>
 Contribution Graph
