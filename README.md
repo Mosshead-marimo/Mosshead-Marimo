@@ -69,10 +69,10 @@ Developer Productivity Tools
 ## GitHub Stats
 
 <p align="center">
+  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mosshead-marimo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mosshead-marimo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosshead-marimo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosshead-marimo&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
 Development Streak
