@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Mosshead</h1>
+<h1 align="center">⚡ Kaushik Aadhithya Chiratangandla</h1>
 
 <p align="center">
 Cybersecurity Developer • AI Systems Builder
