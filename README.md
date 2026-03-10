@@ -25,7 +25,9 @@ AI systems • security tooling • ML experimentation
 ```bash
 > mission
 Build intelligent systems that detect, analyze and automate security workflows
-Domains
+```
+```bash
+> Domains
 Cybersecurity
 
 Threat Detection Engineering
@@ -59,9 +61,9 @@ Reactive Python Environments
 ML Workflow Systems
 
 Developer Productivity Tools
-
-Tech Arsenal
 ```
+
+#Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,git,mongodb,mysql,aws"/> </p>
 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mosshead-marimo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosshead-marimo&layout=compact&theme=tokyonight&hide_border=true"/> </p>
