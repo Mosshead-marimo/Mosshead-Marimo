@@ -16,28 +16,22 @@ Cybersecurity Developer • AI Systems Builder
 
 ```bash
 > whoami
-Cybersecurity Developer
+AI Developer | AI engineer | AI security Engineer | Gen AI Engineer
 ```
 ```bash
 > focus
-AI systems • security tooling • ML experimentation
+Lead the design and technical implementation of enterprise AI, cybersecurity, cloud monitoring, and workflow automation
+solutions.
+ Architect AI-powered applications using Large Language Models, Retrieval-Augmented Generation, vector databases,
+FastAPI services, and cloud infrastructure.
+
 ```
 ```bash
 > mission
-Build intelligent systems that detect, analyze and automate security workflows
+Build intelligent systems that detect, analyze and automate workflows
 ```
 ```bash
 > Domains
-Cybersecurity
-
-Threat Detection Engineering
-
-Malware Analysis
-
-Digital Forensics
-
-Security Automation
-
 Adversarial Machine Learning
 
 Artificial Intelligence
@@ -60,7 +54,16 @@ Reactive Python Environments
 
 ML Workflow Systems
 
-Developer Productivity Tools
+Developer Productivity Toolz
+
+Threat Detection Engineering
+
+Malware Analysis
+
+Security Automation
+
+Digital Forensics
+
 ```
 ## Tech Arsenal
 
