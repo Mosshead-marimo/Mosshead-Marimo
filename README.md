@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Kaushik Aadhithya Chiratangandla</h1>
 
 <p align="center">
-Cybersecurity Developer • AI Systems Builder
+AI Developer . AI engineer . AI security Engineer .Gen AI Engineer
 </p>
 
 <p align="center">
