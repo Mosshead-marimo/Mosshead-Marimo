@@ -6,7 +6,7 @@ AI Developer . AI engineer . AI security Engineer .Gen AI Engineer
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;AI+engineer;AI+security+Engineer+Gen AI Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;AI+engineer;AI+security+Engineer+Gen AI Engineer;"/>
 
 </p>
 
